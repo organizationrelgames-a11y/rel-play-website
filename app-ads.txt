@@ -1,4 +1,3 @@
 google.com, pub-8482028548370161, DIRECT, f08c47fec0942fa0
-ownerdomain=yourdomain.com
 ironsrc.com, 532817, DIRECT
 unity.com, 5576204, DIRECT, 96cabb5fbdde37a7
